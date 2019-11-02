@@ -7,7 +7,7 @@ function login(e) {
 
 export const Bible = () =>  (
       <div>
-          <img src={ require('../pictures/Bible.jpg')}
+          <img src={ require('./Bible.jpg')}
             className="welcome-image"
             id="new-world-translation" 
              />
